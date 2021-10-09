@@ -1,0 +1,21 @@
+#logo { 
+    width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.company-p {
+    min-height: 96px;
+}
+.company-logo {
+    width: 100%;
+    height: 225px;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.company-logo img {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
